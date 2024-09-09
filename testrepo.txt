@@ -3,3 +3,4 @@ update 2
 test hapus repo
 tambah lalu hapus text dibawah
 apakah perlu di push dan commit lagi
+kalo iya berarti tidak butuh push dan hanaya melakukan git add saja
